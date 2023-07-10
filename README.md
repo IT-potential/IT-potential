@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Dear, collegues, please check the CV [https://it-potential.github.io/rsschool-cv]
 <!--
 **IT-potential/IT-potential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
